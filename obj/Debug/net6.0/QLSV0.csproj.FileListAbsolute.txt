@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\QLSV0\QLSV0\bin\Debug\net6.0\QLSV0.exe
+C:\Users\Admin\source\repos\QLSV0\QLSV0\bin\Debug\net6.0\QLSV0.deps.json
+C:\Users\Admin\source\repos\QLSV0\QLSV0\bin\Debug\net6.0\QLSV0.runtimeconfig.json
+C:\Users\Admin\source\repos\QLSV0\QLSV0\bin\Debug\net6.0\QLSV0.dll
+C:\Users\Admin\source\repos\QLSV0\QLSV0\bin\Debug\net6.0\QLSV0.pdb
+C:\Users\Admin\source\repos\QLSV0\QLSV0\obj\Debug\net6.0\QLSV0.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QLSV0\QLSV0\obj\Debug\net6.0\QLSV0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\QLSV0\QLSV0\obj\Debug\net6.0\QLSV0.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\QLSV0\QLSV0\obj\Debug\net6.0\QLSV0.AssemblyInfo.cs
+C:\Users\Admin\source\repos\QLSV0\QLSV0\obj\Debug\net6.0\QLSV0.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QLSV0\QLSV0\obj\Debug\net6.0\QLSV0.dll
+C:\Users\Admin\source\repos\QLSV0\QLSV0\obj\Debug\net6.0\refint\QLSV0.dll
+C:\Users\Admin\source\repos\QLSV0\QLSV0\obj\Debug\net6.0\QLSV0.pdb
+C:\Users\Admin\source\repos\QLSV0\QLSV0\obj\Debug\net6.0\QLSV0.genruntimeconfig.cache
+C:\Users\Admin\source\repos\QLSV0\QLSV0\obj\Debug\net6.0\ref\QLSV0.dll
